@@ -1,8 +1,12 @@
 ## Hi there 👋
-![Java](https://img.shields.io/badge/Java-✓-blue?logo=java) 
-![Python](https://img.shields.io/badge/Python-✓-blue?logo=python) 
-![Vue](https://img.shields.io/badge/Vue-✓-green?logo=vuedotjs) 
-![MySQL](https://img.shields.io/badge/MySQL-✓-blue?logo=mysql)
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-✓-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-✓-blue?logo=python)
+![Vue](https://img.shields.io/badge/Vue-✓-green?logo=vuedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-✓-purple?logo=mysql)
+
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaXujia)
 
