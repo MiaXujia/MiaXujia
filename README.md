@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Java](https://img.shields.io/badge/Java-8-yellow?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8-yellow?logo=java&logoColor=white)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaXujia)
 
 <!--
