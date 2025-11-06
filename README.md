@@ -1,5 +1,8 @@
 ## Hi there 👋
-![Java](https://img.shields.io/badge/Java-8-yellow?logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-✓-blue?logo=java) 
+![Python](https://img.shields.io/badge/Python-✓-blue?logo=python) 
+![Vue](https://img.shields.io/badge/Vue-✓-green?logo=vuedotjs) 
+![MySQL](https://img.shields.io/badge/MySQL-✓-blue?logo=mysql)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaXujia)
 
