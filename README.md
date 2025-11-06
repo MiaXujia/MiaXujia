@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Java](https://img.shields.io/badge/Java-8-yellow?logo=java&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaXujia)
 
 <!--
 **MiaXujia/MiaXujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
