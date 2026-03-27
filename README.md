@@ -2,7 +2,6 @@
 
 # 🌟 Welcome to My GitHub Profile
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=4B0082&size=19&center=true&width=850&duration=4000&pause=1800&lines=因为我就算知道了真正的你;也想在你身边;想要喜欢你。;——+小糸侑《终将成为你》)
-西南财经大学 27届本科生 希望从事AI应用开发、后端开发
 ## 🔥 Skills & Interests
 
 ### 技术栈
@@ -32,5 +31,7 @@
 - 👁️ **Computer Vision** - Image Processing & Analysis  
 - 💬 **NLP** - Language Models & Text Understanding
 - 📈 **Data Science** - Analytics & Insights
+
+西南财经大学 27届本科生 希望从事AI应用开发、后端开发
 
 </div>
