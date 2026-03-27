@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🌟 Welcome to My GitHub Profile
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=4B0082&size=19&center=true&width=850&duration=4000&pause=1800&lines=因为我就算知道了真正的你;也想在你身边;想要喜欢你。;——+小糸侑《终将成为你》)
 ## 🔥 Skills & Interests
 
@@ -32,11 +31,5 @@
 - 👁️ **Computer Vision** - Image Processing & Analysis  
 - 💬 **NLP** - Language Models & Text Understanding
 - 📈 **Data Science** - Analytics & Insights
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiaXujia/MiaXujia/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiaXujia/MiaXujia/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiaXujia/MiaXujia/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
