@@ -18,6 +18,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-✓-green?logo=springboot&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-✓-green?logo=vuedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-✓-purple?logo=mysql&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
 
 #### 🤖 AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-✓-red?logo=pytorch&logoColor=white)
