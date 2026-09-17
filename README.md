@@ -25,12 +25,10 @@
 #### 🎯 Currently Focus On
 - **Web Development** - Frontend & Backend technologies
 - **Data Structures & Algorithms** - Problem solving and optimization
-
-#### 📚 Learning Goals (maybe)
-- 🧠 **Deep Learning** - Neural Networks & Architectures
-- 👁️ **Computer Vision** - Image Processing & Analysis  
-- 💬 **NLP** - Language Models & Text Understanding
-- 📈 **Data Science** - Analytics & Insights
+- **Deep Learning** - Neural Networks & Architectures
+- **NLP** - Language Models & Text Understanding
+- **MLLM** -
+- **Agent** - 
 
 西南财经大学 27届本科生 希望从事AI应用开发、后端开发
 
